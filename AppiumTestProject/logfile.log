@@ -1,0 +1,3 @@
+2019-06-08 21:35:11,563 INFO  [SoftPhoneTest] ****Test 'accept_and_decline_call_on_mobile' started***** 
+2019-06-08 21:35:11,600 INFO  [SoftPhoneTest] Starting mobile driver 
+2019-06-08 21:35:11,601 INFO  [ConfigBase] ******Loading desired capabilities********* 
